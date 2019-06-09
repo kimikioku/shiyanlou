@@ -1,0 +1,1 @@
+try out the ssh keygen without the passwords
