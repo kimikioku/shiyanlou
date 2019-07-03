@@ -1,9 +1,9 @@
-Fluffy	Harold	cat	f	1993-02-04	\N
-Claws	Gwen	cat	m	1994-03-1	\N
-Buffy	Harold	dog	f	1989-05-13	\N
-Fang	Benny	dog	m	1990-08-27	\N
-Bowser	Diane	dog	m	1979-08-31	1995-07-29
-Chirpy	Gwen	bird	f	1998-09-11	\N
-Whistler	Gwen	bird	m	1997-12-09	\N
-Slim	Benny	snake	m	1996-12-09	\N
-Puffball	Diane	hamster	f	1999-03-30	\N
+insert into pet values ('Fluffy','Harold','cat','f','1993-02-04',null);
+insert into pet values ('Claws','Gwen','cat','m','1994-03-1',null);
+insert into pet values ('Buffy','Harold','dog','f','1989-05-13',null);
+insert into pet values ('Fang','Benny','dog','m','1990-08-27',null);
+insert into pet values ('Bowser','Diane','dog','m','1979-08-31','1995-07-29
+insert into pet values ('Chirpy','Gwen','bird','f','1998-09-11',null);
+insert into pet values ('Whistler','Gwen','bird','m','1997-12-09',null);
+insert into pet values ('Slim','Benny','snake','m','1996-12-09',null);
+insert into pet values ('Puffball','Diane','hamster','f','1999-03-30',null);
